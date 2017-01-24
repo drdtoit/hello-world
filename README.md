@@ -1,2 +1,2 @@
 # hello-world
-Jet another hello-world tutorial
+Yet another hello-world tutorial
