@@ -1,2 +1,2 @@
 # hello-world
-JANR
+Jet another hello-world tutorial
